@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Lluis 👋👨‍💻
 
-<!--
-**LluisArevalo/LluisArevalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering Manager who is passionate about helping people, create tech products and learn new stuff every day. I'm currently working at Citibox as Engineering Manager contributing to the reduction of the CO2 emissions, as well as providing help to small and medium startups as part-time interim Engineering Manager. Some of the technologies I enjoy the most are ReactJS and GraphQL.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👾 I spare my free time playing videogames
+- 🎾 I play paddel and golf 🏌️‍♂️
+- 📚 I love reading and I have plenty of "pending" books around my office. Any recommendation about books? Drop me a DM! 📫
+
+## Find me
+
+- Twitter: twitter.com/@LluisArevalo
+- Instagram: instagram.com/@LluisArevalo
+- LinkedIn: linkedin.com/in/lluisaarevalo
