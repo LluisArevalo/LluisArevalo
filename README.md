@@ -6,7 +6,8 @@ I'm a Software Engineering Manager who is passionate about helping people, creat
 
 - 👾 I spare my free time playing videogames
 - 🎾 I play paddel and golf 🏌️‍♂️
-- 📚 I love reading and I have plenty of "pending" books around my office. Any recommendation about books? Drop me a DM! 📫
+- 📚 I love reading and I have plenty of "pending" books around my office.
+  Do you have any recommendation about books? Drop me a DM! 📫
 
 ## Find me
 
